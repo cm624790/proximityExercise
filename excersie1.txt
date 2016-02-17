@@ -1,0 +1,7 @@
+2. It decreased the width of the divs.
+3. Both are next to each other on the right side of the page
+4. Both are next to each other on the left side of the page
+5. Div two is partially covered
+6. They move to opposite sides of the page. Div 2 on the left and Div 1 on the right.
+7. Div 1 takes up the entire width of the browser window and div 2 is below it on the left.
+9. Both divs change change shape to fit the size of the page.
